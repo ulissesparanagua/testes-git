@@ -1,2 +1,2 @@
 # testes-git
-Testes de clonagem e de push
+Praticando clonagem e push do github.
